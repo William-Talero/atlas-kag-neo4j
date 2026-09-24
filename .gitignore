@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+.next/
+*.tsbuildinfo
+data/*.json
+data/*.npz
+data/*.vocab.json
+infra/.provision-env
+.DS_Store
+
